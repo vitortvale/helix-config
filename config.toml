@@ -1,0 +1,8 @@
+[keys.insert]
+j = { k = "normal_mode" }
+
+[keys.normal]
+V = ["extend_line_below", "extend_to_line_bounds"]
+x = "delete_selection"
+"0" = "goto_line_start"
+
