@@ -1,3 +1,4 @@
+#Key remapping
 [keys.insert]
 j = { k = "normal_mode" }
 
@@ -5,4 +6,8 @@ j = { k = "normal_mode" }
 V = ["extend_line_below", "extend_to_line_bounds"]
 x = "delete_selection"
 "0" = "goto_line_start"
+
+#Editor
+[editor]
+line-number = "relative"
 
